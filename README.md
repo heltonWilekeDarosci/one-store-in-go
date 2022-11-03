@@ -1,0 +1,1 @@
+# one-store-in-go
